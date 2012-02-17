@@ -1,3 +1,11 @@
+NEW REPOSITORY
+==============
+
+Devon Peters is the new maintainer of the module - his repository is located at
+https://github.com/dpeters/puppet-opsview. Please go there for new development!
+I will no longer maintain this repository, as I do not have the resources these days
+to test Puppet + Opsview.
+
 Stable release download
 =======================
 
